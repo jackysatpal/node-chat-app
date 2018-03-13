@@ -1,1 +1,1 @@
-### node-chat-app
+### Chat application in Node
